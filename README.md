@@ -1,6 +1,6 @@
-# Glad to meet you
+# Hey nice to meet you
 
-- 👋 Hi, I’m OFLenake.
+- 👋 I’m OFLenake.
 - 🌱 Currently tinkering with embedded system designs and learning new technology. 
 - 💞️ I’m looking to collaborate on future projects with tech professionals. 
 - 📫 How to reach me: OFLenake [at] gmail [dot] com.
