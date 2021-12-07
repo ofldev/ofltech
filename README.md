@@ -1,8 +1,8 @@
-# Hey nice to meet you
+# Nice to meet you
 
-- 👋 I’m OFLenake.
-- 🌱 Currently tinkering with embedded system designs and learning new technology. 
-- 💞️ I’m looking to collaborate on future projects with tech professionals. 
+- 👋 I’m Onkgopotse Lenake.
+- 🌱 Currently tinkering with toys to realize visionary dreams.
+- 💞️ Looking to collaborate on future projects with tech professionals. 
 - 📫 How to reach me: OFLenake [at] gmail [dot] com.
 - 😄 Pronouns: he/him/his.
 
