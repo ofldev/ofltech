@@ -1,10 +1,10 @@
 # Nice to meet you
 
-- 👋 I’m Onkgopotse Lenake.
+- 👋 This is OFLenake's development account.
 - 🌱 Currently tinkering with toys to realize visionary dreams.
 - 💞️ Looking to collaborate on future projects with tech professionals. 
 - 📫 How to reach me: OFLenake [at] gmail [dot] com.
-- 😄 Pronouns: he/him/his.
+- 😄 Pronouns: he/him.
 
 <!---
 - 👀 Currently specializing in retail and business banking systems at Absa Group.
