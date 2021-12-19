@@ -1,9 +1,9 @@
 # Nice to meet you
 
-- 👋 This is OFLenake's development account.
+- 👋 @OFLenakeDev introduction on GitHub profile.
 - 🌱 Currently tinkering with toys to realize visionary dreams.
 - 💞️ Looking to collaborate on future projects with tech professionals. 
-- 📫 How to reach me: OFLenake [at] gmail [dot] com.
+- 📫 How to reach me: oflenakedev [at] gmail [dot] com.
 - 😄 Pronouns: he/him.
 
 <!---
